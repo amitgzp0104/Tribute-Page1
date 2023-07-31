@@ -1,0 +1,36 @@
+*{
+    font-size: 18px;
+}
+#id1{
+    background-color:darkcyan;
+    /* margin: 100;
+    margin-left: 400px;
+    margin-right: 400px;margin-top: 10px; */
+}
+
+#hd1{
+    text-align: center;
+    background-color: rgb(199, 152, 92);
+    height: 150px;
+    /* padding-top: 50px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    align-items: center; */
+}
+
+#quote{
+    font-size: 30px;
+}
+table{
+    align-self: auto;
+    align-items: center;
+}
+
+#id2{
+    margin: 10px;
+}
+
+dl{
+    background-color: azure;
+}
